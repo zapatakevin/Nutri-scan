@@ -1,0 +1,5 @@
+{
+  "name": "NutriScan",
+  "description": "Escáner de etiquetas nutricionales con IA",
+  "requestFramePermissions": ["camera"]
+}
